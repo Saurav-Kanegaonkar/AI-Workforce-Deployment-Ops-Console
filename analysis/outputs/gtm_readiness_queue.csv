@@ -1,0 +1,25 @@
+package_id,segment,workflow,pricing_model,value_metric,sales_confidence_pct,technical_confidence_pct,missing_artifacts,quote_blocked,enabled_reps,gtm_readiness_risk
+GTM05-INDUSTRIAL,industrial services,maintenance intake,platform plus usage,autonomous resolution,51.7,52.0,integration checklist,yes,23,61.4
+GTM04-ENTERPRISE,enterprise logistics,vendor coordination,platform plus usage,cost per completed workflow,54.0,59.2,integration checklist,yes,14,57.1
+GTM05-FIELD,field operations,maintenance intake,per contact,autonomous resolution,45.1,70.6,case study proof,yes,27,55.6
+GTM01-FIELD,field operations,appointment scheduling,pilot fee plus expansion,manual hours removed,53.8,63.1,ROI calculator,yes,19,55.4
+GTM04-INDUSTRIAL,industrial services,vendor coordination,per resolved workflow,cost per completed workflow,56.1,62.7,ROI calculator,yes,23,54.6
+GTM02-FIELD,field operations,delivery tracking,pilot fee plus expansion,late delivery reduction,55.0,50.8,none,yes,7,53.5
+GTM06-CUSTOMER,customer operations,collections follow-up,platform plus usage,autonomous resolution,47.5,73.2,ROI calculator,yes,4,53.4
+GTM03-CUSTOMER,customer operations,exception management,per contact,late delivery reduction,48.9,60.9,none,yes,5,51.4
+GTM06-FIELD,field operations,collections follow-up,per contact,late delivery reduction,42.2,84.7,integration checklist,yes,7,50.3
+GTM03-INDUSTRIAL,industrial services,exception management,pilot fee plus expansion,late delivery reduction,54.0,74.7,case study proof,yes,12,50.0
+GTM02-ENTERPRISE,enterprise logistics,delivery tracking,platform plus usage,late delivery reduction,68.0,64.8,integration checklist,yes,11,48.6
+GTM01-ENTERPRISE,enterprise logistics,appointment scheduling,platform plus usage,late delivery reduction,74.5,48.4,none,yes,25,46.4
+GTM04-CUSTOMER,customer operations,vendor coordination,per contact,autonomous resolution,70.6,68.7,security FAQ,yes,13,45.7
+GTM05-CUSTOMER,customer operations,maintenance intake,per resolved workflow,autonomous resolution,50.6,87.3,case study proof,yes,16,45.6
+GTM05-ENTERPRISE,enterprise logistics,maintenance intake,pilot fee plus expansion,autonomous resolution,64.1,76.5,integration checklist,yes,25,44.9
+GTM06-ENTERPRISE,enterprise logistics,collections follow-up,pilot fee plus expansion,cost per completed workflow,76.2,68.2,ROI calculator,yes,4,43.6
+GTM01-INDUSTRIAL,industrial services,appointment scheduling,pilot fee plus expansion,late delivery reduction,76.7,69.2,pricing guardrail,yes,11,43.0
+GTM06-INDUSTRIAL,industrial services,collections follow-up,platform plus usage,autonomous resolution,70.8,84.5,ROI calculator,no,24,26.4
+GTM04-FIELD,field operations,vendor coordination,per contact,manual hours removed,73.5,95.2,none,yes,15,25.3
+GTM02-CUSTOMER,customer operations,delivery tracking,platform plus usage,cost per completed workflow,80.9,80.8,pricing guardrail,no,15,23.9
+GTM02-INDUSTRIAL,industrial services,delivery tracking,per contact,autonomous resolution,77.4,95.6,case study proof,no,27,18.5
+GTM03-ENTERPRISE,enterprise logistics,exception management,per contact,late delivery reduction,81.8,77.2,none,no,25,18.1
+GTM03-FIELD,field operations,exception management,per contact,late delivery reduction,87.7,90.0,ROI calculator,no,18,16.8
+GTM01-CUSTOMER,customer operations,appointment scheduling,platform plus usage,late delivery reduction,96.0,96.3,none,no,6,3.4

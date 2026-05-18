@@ -1,0 +1,13 @@
+feature_id,feature_name,capability,release_phase,owner,docs_ready_pct,eval_pass_rate_pct,field_training_pct,deployments_blocked,blocked_deployment_ids,gtm_motion,price_packaging_status
+FEAT001,carrier check-call reason codes,workflow tools,general enablement,Product Ops,83.3,84.6,49.1,5,DEP022;DEP024;DEP006;DEP020;DEP019,renewal defense,needs guardrails
+FEAT002,multi-lingual voice fallback,reasoning,limited release,Product Ops,56.6,91.6,73.2,4,DEP015;DEP022;DEP007;DEP017,renewal defense,not priced
+FEAT003,staging eval regression suite,voice,limited release,Deployment,50.1,96.6,51.6,4,DEP008;DEP026;DEP007;DEP005,pilot conversion,clear
+FEAT004,dispatcher handoff summary,voice,design review,GTM Enablement,70.0,94.6,71.4,5,DEP016;DEP013;DEP008;DEP005;DEP021,expansion,clear
+FEAT005,webhook retry policy,workflow tools,staging,GTM Enablement,89.2,88.9,64.9,6,DEP008;DEP004;DEP015;DEP005;DEP026;DEP022,pilot conversion,needs guardrails
+FEAT006,quote confidence packaging,reasoning,staging,Product Engineering,85.9,82.2,53.0,3,DEP027;DEP021;DEP009,pilot conversion,not priced
+FEAT007,maintenance vendor routing,reasoning,design review,Product Ops,84.2,75.0,57.5,6,DEP003;DEP005;DEP027;DEP008;DEP013;DEP023,pilot conversion,needs value metric
+FEAT008,agent memory conflict detector,workflow tools,general enablement,Product Ops,63.2,82.0,41.6,5,DEP013;DEP025;DEP019;DEP023;DEP001,renewal defense,not priced
+FEAT009,deployment release notes digest,reasoning,limited release,Product Engineering,86.4,93.6,93.3,5,DEP018;DEP024;DEP026;DEP020;DEP008,pilot conversion,not priced
+FEAT010,operator console escalation queue,workflow tools,general enablement,Product Ops,46.6,78.1,77.4,5,DEP024;DEP006;DEP027;DEP015;DEP005,new workflow,clear
+FEAT011,collections promise-to-pay verifier,workflow tools,general enablement,Product Engineering,52.5,81.9,40.9,5,DEP011;DEP007;DEP015;DEP025;DEP013,new workflow,needs guardrails
+FEAT012,coding agent runbook validator,voice,general enablement,Deployment,46.1,84.2,96.0,4,DEP008;DEP021;DEP003;DEP025,expansion,clear

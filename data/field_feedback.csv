@@ -1,0 +1,241 @@
+feedback_id,event_date,deployment_id,channel,signal_type,severity,product_area,customer_impact_usd,time_to_triage_hours,status,linked_feature_id,product_action
+FDBK0001,2026-04-07,DEP027,Slack escalation,customer escalation,medium,evals,10258,29.7,in progress,FEAT001,update eval case
+FDBK0002,2026-04-08,DEP020,field call,integration defect,critical,integrations,49084,24.6,waiting on data,FEAT010,train deployment team
+FDBK0003,2026-04-20,DEP023,QA review,integration defect,low,operator console,2201,34.0,closed,FEAT004,write release note
+FDBK0004,2026-03-02,DEP012,sales enablement,deployment blocker,medium,evals,10789,5.3,in progress,FEAT009,escalate to product review
+FDBK0005,2026-04-10,DEP027,customer ops review,sales question,high,evals,33314,20.1,closed,FEAT008,patch integration
+FDBK0006,2026-03-31,DEP011,customer ops review,eval failure,high,operator console,19990,28.4,in progress,FEAT004,write release note
+FDBK0007,2026-04-09,DEP016,QA review,customer escalation,low,operator console,1226,1.4,triaged,FEAT006,write release note
+FDBK0008,2026-04-12,DEP008,sales enablement,label drift,medium,evals,6437,33.5,new,FEAT012,patch integration
+FDBK0009,2026-04-04,DEP008,QA review,deployment blocker,medium,evals,8546,41.9,closed,FEAT007,patch integration
+FDBK0010,2026-03-14,DEP012,QA review,deployment blocker,medium,voice stack,6277,31.5,triaged,FEAT012,update eval case
+FDBK0011,2026-03-08,DEP007,Slack escalation,integration defect,medium,integrations,11095,10.3,triaged,FEAT012,patch integration
+FDBK0012,2026-04-15,DEP001,Slack escalation,deployment blocker,medium,evals,3393,5.2,new,FEAT012,clarify pricing guardrail
+FDBK0013,2026-03-09,DEP010,field call,deployment blocker,medium,evals,3341,21.2,closed,FEAT008,escalate to product review
+FDBK0014,2026-03-09,DEP022,customer ops review,label drift,low,evals,2443,25.9,closed,FEAT001,update eval case
+FDBK0015,2026-04-10,DEP025,field call,sales question,medium,operator console,9525,40.4,new,FEAT009,update eval case
+FDBK0016,2026-03-06,DEP021,Slack escalation,eval failure,low,voice stack,821,17.7,closed,FEAT004,train deployment team
+FDBK0017,2026-03-16,DEP010,QA review,integration defect,low,operator console,1079,28.1,triaged,FEAT001,train deployment team
+FDBK0018,2026-03-06,DEP004,field call,customer escalation,low,orchestration,2360,33.5,closed,FEAT009,escalate to product review
+FDBK0019,2026-04-15,DEP027,sales enablement,sales question,high,integrations,34566,21.5,waiting on data,FEAT010,train deployment team
+FDBK0020,2026-03-03,DEP003,field call,sales question,low,orchestration,2004,40.4,closed,FEAT010,clarify pricing guardrail
+FDBK0021,2026-04-12,DEP001,sales enablement,label drift,high,integrations,27417,8.4,closed,FEAT011,train deployment team
+FDBK0022,2026-04-13,DEP021,field call,sales question,critical,orchestration,63040,14.5,waiting on data,FEAT008,patch integration
+FDBK0023,2026-03-18,DEP022,QA review,label drift,high,voice stack,14885,40.8,waiting on data,FEAT007,clarify pricing guardrail
+FDBK0024,2026-04-04,DEP027,QA review,label drift,medium,operator console,9270,32.0,waiting on data,FEAT001,write release note
+FDBK0025,2026-04-11,DEP007,customer ops review,deployment blocker,medium,orchestration,10441,30.1,in progress,FEAT005,clarify pricing guardrail
+FDBK0026,2026-04-12,DEP001,Slack escalation,customer escalation,medium,evals,4358,39.2,in progress,FEAT009,clarify pricing guardrail
+FDBK0027,2026-03-11,DEP023,sales enablement,sales question,medium,orchestration,6493,38.8,closed,FEAT005,escalate to product review
+FDBK0028,2026-03-20,DEP005,QA review,sales question,low,operator console,1196,24.8,waiting on data,FEAT002,update eval case
+FDBK0029,2026-03-22,DEP015,Slack escalation,deployment blocker,medium,orchestration,11403,24.4,triaged,FEAT009,train deployment team
+FDBK0030,2026-04-21,DEP002,Slack escalation,integration defect,high,evals,24651,40.6,triaged,FEAT006,clarify pricing guardrail
+FDBK0031,2026-03-02,DEP019,Slack escalation,sales question,high,evals,41833,36.7,triaged,FEAT006,write release note
+FDBK0032,2026-04-25,DEP016,customer ops review,integration defect,medium,evals,3815,40.1,waiting on data,FEAT005,clarify pricing guardrail
+FDBK0033,2026-03-07,DEP002,sales enablement,integration defect,low,voice stack,1901,32.2,new,FEAT010,train deployment team
+FDBK0034,2026-03-20,DEP006,QA review,eval failure,medium,integrations,7814,18.7,triaged,FEAT012,clarify pricing guardrail
+FDBK0035,2026-04-26,DEP014,sales enablement,customer escalation,medium,operator console,5368,29.0,waiting on data,FEAT010,clarify pricing guardrail
+FDBK0036,2026-04-22,DEP005,sales enablement,deployment blocker,medium,integrations,6683,28.8,triaged,FEAT004,write release note
+FDBK0037,2026-03-31,DEP015,QA review,deployment blocker,critical,orchestration,58390,42.0,waiting on data,FEAT006,write release note
+FDBK0038,2026-03-27,DEP008,QA review,label drift,medium,voice stack,7337,24.2,new,FEAT007,clarify pricing guardrail
+FDBK0039,2026-03-24,DEP024,Slack escalation,deployment blocker,high,orchestration,31892,26.5,triaged,FEAT008,escalate to product review
+FDBK0040,2026-03-25,DEP004,Slack escalation,deployment blocker,medium,voice stack,9722,38.3,in progress,FEAT011,escalate to product review
+FDBK0041,2026-03-19,DEP014,Slack escalation,label drift,low,integrations,2294,38.5,waiting on data,FEAT003,patch integration
+FDBK0042,2026-03-16,DEP024,sales enablement,sales question,high,operator console,16612,16.0,waiting on data,FEAT006,write release note
+FDBK0043,2026-04-23,DEP009,QA review,deployment blocker,low,voice stack,1877,28.7,waiting on data,FEAT009,write release note
+FDBK0044,2026-04-15,DEP020,QA review,label drift,medium,evals,3535,5.8,new,FEAT009,write release note
+FDBK0045,2026-03-31,DEP010,QA review,customer escalation,low,operator console,2317,18.2,triaged,FEAT008,train deployment team
+FDBK0046,2026-03-25,DEP021,Slack escalation,label drift,high,evals,13072,19.2,triaged,FEAT002,patch integration
+FDBK0047,2026-03-14,DEP004,field call,integration defect,medium,evals,3492,4.8,triaged,FEAT011,escalate to product review
+FDBK0048,2026-04-21,DEP021,customer ops review,eval failure,critical,orchestration,50252,3.8,closed,FEAT010,update eval case
+FDBK0049,2026-03-02,DEP019,QA review,customer escalation,high,orchestration,37842,41.5,closed,FEAT004,patch integration
+FDBK0050,2026-04-21,DEP026,Slack escalation,eval failure,low,operator console,769,14.3,triaged,FEAT003,patch integration
+FDBK0051,2026-04-20,DEP002,QA review,label drift,high,operator console,27605,25.3,waiting on data,FEAT003,clarify pricing guardrail
+FDBK0052,2026-03-03,DEP008,field call,integration defect,low,evals,1567,35.7,waiting on data,FEAT010,escalate to product review
+FDBK0053,2026-03-11,DEP004,field call,sales question,high,orchestration,22554,12.3,closed,FEAT008,clarify pricing guardrail
+FDBK0054,2026-04-09,DEP023,sales enablement,label drift,medium,voice stack,7331,33.5,new,FEAT006,escalate to product review
+FDBK0055,2026-03-28,DEP021,QA review,customer escalation,high,evals,41100,17.3,new,FEAT009,patch integration
+FDBK0056,2026-03-06,DEP014,field call,deployment blocker,medium,voice stack,5000,4.8,new,FEAT006,escalate to product review
+FDBK0057,2026-04-13,DEP024,field call,label drift,high,evals,30405,15.5,waiting on data,FEAT006,escalate to product review
+FDBK0058,2026-03-11,DEP002,sales enablement,deployment blocker,medium,orchestration,11968,35.7,in progress,FEAT005,clarify pricing guardrail
+FDBK0059,2026-04-20,DEP012,customer ops review,label drift,high,operator console,39694,28.7,closed,FEAT002,write release note
+FDBK0060,2026-04-19,DEP020,QA review,deployment blocker,high,integrations,20954,15.4,triaged,FEAT011,update eval case
+FDBK0061,2026-04-04,DEP019,Slack escalation,customer escalation,medium,evals,3002,18.2,in progress,FEAT011,update eval case
+FDBK0062,2026-03-11,DEP012,Slack escalation,label drift,high,operator console,40945,3.0,new,FEAT005,patch integration
+FDBK0063,2026-04-19,DEP015,customer ops review,label drift,medium,voice stack,9285,15.2,new,FEAT011,patch integration
+FDBK0064,2026-03-27,DEP022,customer ops review,label drift,medium,voice stack,7553,1.3,in progress,FEAT011,update eval case
+FDBK0065,2026-04-18,DEP025,sales enablement,deployment blocker,high,orchestration,12253,6.3,closed,FEAT003,escalate to product review
+FDBK0066,2026-04-26,DEP008,field call,integration defect,medium,evals,8302,1.8,new,FEAT009,patch integration
+FDBK0067,2026-03-27,DEP019,field call,integration defect,medium,integrations,9343,8.0,closed,FEAT007,train deployment team
+FDBK0068,2026-04-08,DEP027,sales enablement,eval failure,high,operator console,19972,4.2,in progress,FEAT012,escalate to product review
+FDBK0069,2026-04-04,DEP011,customer ops review,customer escalation,medium,orchestration,10863,38.1,in progress,FEAT004,patch integration
+FDBK0070,2026-03-13,DEP024,customer ops review,customer escalation,high,orchestration,20387,32.2,new,FEAT011,update eval case
+FDBK0071,2026-04-07,DEP025,customer ops review,label drift,medium,integrations,11994,36.4,in progress,FEAT011,update eval case
+FDBK0072,2026-03-24,DEP015,customer ops review,integration defect,medium,voice stack,7000,13.7,waiting on data,FEAT002,write release note
+FDBK0073,2026-04-03,DEP002,sales enablement,eval failure,high,evals,32152,24.8,new,FEAT006,train deployment team
+FDBK0074,2026-03-05,DEP026,sales enablement,deployment blocker,medium,voice stack,10292,34.2,in progress,FEAT010,escalate to product review
+FDBK0075,2026-04-04,DEP003,customer ops review,eval failure,medium,orchestration,9672,15.9,in progress,FEAT009,train deployment team
+FDBK0076,2026-03-08,DEP014,customer ops review,eval failure,medium,evals,7982,12.7,closed,FEAT006,update eval case
+FDBK0077,2026-04-15,DEP011,sales enablement,customer escalation,medium,orchestration,8231,25.4,new,FEAT002,patch integration
+FDBK0078,2026-04-24,DEP018,customer ops review,deployment blocker,medium,voice stack,4593,27.5,waiting on data,FEAT007,clarify pricing guardrail
+FDBK0079,2026-04-02,DEP012,Slack escalation,customer escalation,medium,orchestration,6009,42.0,triaged,FEAT001,write release note
+FDBK0080,2026-03-23,DEP010,customer ops review,label drift,medium,orchestration,11126,25.5,triaged,FEAT002,update eval case
+FDBK0081,2026-03-25,DEP006,Slack escalation,customer escalation,high,evals,13431,26.0,waiting on data,FEAT012,update eval case
+FDBK0082,2026-04-07,DEP018,sales enablement,sales question,medium,evals,5678,32.5,waiting on data,FEAT004,clarify pricing guardrail
+FDBK0083,2026-03-05,DEP017,sales enablement,customer escalation,critical,integrations,58384,23.7,new,FEAT007,escalate to product review
+FDBK0084,2026-04-03,DEP028,Slack escalation,deployment blocker,high,evals,20938,4.8,triaged,FEAT009,train deployment team
+FDBK0085,2026-03-07,DEP012,QA review,sales question,medium,orchestration,8626,2.2,new,FEAT001,escalate to product review
+FDBK0086,2026-04-15,DEP021,Slack escalation,customer escalation,high,evals,39189,19.4,new,FEAT006,write release note
+FDBK0087,2026-04-20,DEP001,QA review,customer escalation,low,orchestration,1623,13.3,new,FEAT005,update eval case
+FDBK0088,2026-04-09,DEP014,customer ops review,sales question,high,voice stack,39416,26.9,closed,FEAT011,update eval case
+FDBK0089,2026-03-28,DEP023,Slack escalation,eval failure,low,voice stack,1759,22.5,in progress,FEAT003,write release note
+FDBK0090,2026-03-04,DEP017,sales enablement,label drift,medium,integrations,2833,11.4,new,FEAT009,patch integration
+FDBK0091,2026-04-18,DEP026,QA review,integration defect,medium,orchestration,4198,2.8,closed,FEAT002,patch integration
+FDBK0092,2026-04-22,DEP027,Slack escalation,integration defect,low,voice stack,1451,30.4,waiting on data,FEAT011,write release note
+FDBK0093,2026-04-03,DEP010,sales enablement,customer escalation,low,operator console,2314,20.4,new,FEAT004,escalate to product review
+FDBK0094,2026-04-22,DEP007,QA review,eval failure,medium,evals,7938,37.5,waiting on data,FEAT005,train deployment team
+FDBK0095,2026-03-07,DEP011,sales enablement,sales question,medium,voice stack,11007,18.7,triaged,FEAT003,clarify pricing guardrail
+FDBK0096,2026-04-09,DEP010,sales enablement,deployment blocker,low,orchestration,1853,29.3,in progress,FEAT006,train deployment team
+FDBK0097,2026-04-21,DEP002,field call,deployment blocker,high,voice stack,20996,28.5,waiting on data,FEAT012,patch integration
+FDBK0098,2026-03-06,DEP017,Slack escalation,eval failure,medium,integrations,9679,15.8,closed,FEAT012,write release note
+FDBK0099,2026-04-07,DEP020,Slack escalation,deployment blocker,medium,operator console,9773,16.0,in progress,FEAT003,escalate to product review
+FDBK0100,2026-03-26,DEP009,customer ops review,eval failure,critical,voice stack,75930,11.7,in progress,FEAT004,escalate to product review
+FDBK0101,2026-03-10,DEP015,field call,deployment blocker,critical,evals,50037,8.1,waiting on data,FEAT004,write release note
+FDBK0102,2026-04-06,DEP026,customer ops review,deployment blocker,critical,integrations,46255,37.5,triaged,FEAT011,escalate to product review
+FDBK0103,2026-04-21,DEP023,Slack escalation,deployment blocker,medium,orchestration,6173,33.4,new,FEAT012,patch integration
+FDBK0104,2026-03-27,DEP018,sales enablement,label drift,medium,operator console,3912,17.8,waiting on data,FEAT010,clarify pricing guardrail
+FDBK0105,2026-04-04,DEP003,QA review,integration defect,critical,orchestration,86571,37.0,closed,FEAT003,escalate to product review
+FDBK0106,2026-04-24,DEP019,field call,customer escalation,high,operator console,41842,7.3,triaged,FEAT003,update eval case
+FDBK0107,2026-03-18,DEP011,Slack escalation,label drift,low,operator console,2332,12.3,in progress,FEAT012,clarify pricing guardrail
+FDBK0108,2026-04-10,DEP018,customer ops review,customer escalation,medium,integrations,5026,35.5,closed,FEAT002,write release note
+FDBK0109,2026-03-15,DEP027,customer ops review,integration defect,low,evals,2079,26.3,new,FEAT001,train deployment team
+FDBK0110,2026-04-14,DEP021,sales enablement,deployment blocker,low,integrations,1489,19.6,new,FEAT009,update eval case
+FDBK0111,2026-03-22,DEP015,QA review,customer escalation,medium,evals,4853,6.4,in progress,FEAT007,clarify pricing guardrail
+FDBK0112,2026-03-11,DEP018,field call,sales question,medium,voice stack,6882,12.9,waiting on data,FEAT002,clarify pricing guardrail
+FDBK0113,2026-03-22,DEP014,Slack escalation,customer escalation,critical,orchestration,89259,21.4,closed,FEAT004,train deployment team
+FDBK0114,2026-03-17,DEP016,Slack escalation,eval failure,medium,operator console,8942,15.5,new,FEAT005,patch integration
+FDBK0115,2026-03-02,DEP016,field call,integration defect,high,evals,21363,6.5,in progress,FEAT010,escalate to product review
+FDBK0116,2026-03-25,DEP012,customer ops review,sales question,medium,integrations,11843,4.0,closed,FEAT007,train deployment team
+FDBK0117,2026-03-27,DEP025,QA review,label drift,low,integrations,1893,23.9,in progress,FEAT009,update eval case
+FDBK0118,2026-04-16,DEP007,QA review,label drift,medium,evals,3242,22.3,triaged,FEAT010,clarify pricing guardrail
+FDBK0119,2026-04-18,DEP017,QA review,label drift,medium,operator console,5162,14.8,closed,FEAT003,clarify pricing guardrail
+FDBK0120,2026-04-14,DEP016,field call,sales question,medium,evals,2772,24.9,new,FEAT012,clarify pricing guardrail
+FDBK0121,2026-04-08,DEP016,sales enablement,label drift,critical,orchestration,45365,22.5,closed,FEAT005,train deployment team
+FDBK0122,2026-03-30,DEP005,QA review,label drift,low,evals,2441,7.2,triaged,FEAT011,train deployment team
+FDBK0123,2026-04-04,DEP017,Slack escalation,integration defect,high,operator console,35126,14.3,waiting on data,FEAT010,clarify pricing guardrail
+FDBK0124,2026-03-24,DEP013,QA review,sales question,critical,operator console,77800,20.9,triaged,FEAT006,patch integration
+FDBK0125,2026-04-15,DEP018,sales enablement,deployment blocker,low,integrations,2079,20.7,closed,FEAT005,escalate to product review
+FDBK0126,2026-04-23,DEP009,QA review,integration defect,low,orchestration,1612,12.9,in progress,FEAT005,escalate to product review
+FDBK0127,2026-04-23,DEP003,customer ops review,integration defect,high,integrations,19011,39.3,in progress,FEAT006,update eval case
+FDBK0128,2026-03-16,DEP004,Slack escalation,customer escalation,high,voice stack,33949,5.1,in progress,FEAT010,escalate to product review
+FDBK0129,2026-04-12,DEP016,sales enablement,customer escalation,medium,evals,11516,27.7,in progress,FEAT002,patch integration
+FDBK0130,2026-04-18,DEP010,field call,eval failure,low,orchestration,1835,18.1,triaged,FEAT011,write release note
+FDBK0131,2026-03-02,DEP027,QA review,customer escalation,high,operator console,40729,25.7,in progress,FEAT007,patch integration
+FDBK0132,2026-03-31,DEP015,QA review,sales question,medium,orchestration,4698,34.2,in progress,FEAT011,update eval case
+FDBK0133,2026-04-21,DEP024,QA review,integration defect,medium,operator console,2730,28.7,triaged,FEAT008,update eval case
+FDBK0134,2026-04-13,DEP020,field call,sales question,high,orchestration,14842,41.2,waiting on data,FEAT011,patch integration
+FDBK0135,2026-04-08,DEP008,customer ops review,customer escalation,low,voice stack,1414,11.7,in progress,FEAT001,escalate to product review
+FDBK0136,2026-04-03,DEP008,QA review,sales question,medium,voice stack,5116,27.2,in progress,FEAT001,patch integration
+FDBK0137,2026-04-09,DEP020,QA review,customer escalation,low,evals,1479,29.8,waiting on data,FEAT004,clarify pricing guardrail
+FDBK0138,2026-04-04,DEP026,QA review,customer escalation,high,voice stack,29219,38.6,new,FEAT011,write release note
+FDBK0139,2026-03-22,DEP027,customer ops review,customer escalation,high,evals,16910,5.8,triaged,FEAT009,escalate to product review
+FDBK0140,2026-04-03,DEP019,sales enablement,label drift,low,evals,1412,24.1,closed,FEAT008,train deployment team
+FDBK0141,2026-04-08,DEP022,field call,sales question,high,voice stack,36438,18.4,new,FEAT005,clarify pricing guardrail
+FDBK0142,2026-04-20,DEP002,Slack escalation,sales question,critical,evals,53795,16.4,waiting on data,FEAT002,train deployment team
+FDBK0143,2026-04-26,DEP028,QA review,integration defect,medium,voice stack,11335,8.3,closed,FEAT007,train deployment team
+FDBK0144,2026-03-21,DEP017,sales enablement,customer escalation,high,operator console,36778,18.4,waiting on data,FEAT003,update eval case
+FDBK0145,2026-03-28,DEP008,customer ops review,deployment blocker,medium,voice stack,4348,10.9,new,FEAT008,write release note
+FDBK0146,2026-03-04,DEP020,sales enablement,integration defect,medium,evals,3297,10.6,triaged,FEAT001,write release note
+FDBK0147,2026-04-09,DEP005,QA review,customer escalation,critical,orchestration,79845,13.4,triaged,FEAT009,escalate to product review
+FDBK0148,2026-03-13,DEP017,sales enablement,deployment blocker,medium,operator console,11621,21.3,in progress,FEAT004,escalate to product review
+FDBK0149,2026-03-21,DEP022,sales enablement,deployment blocker,high,orchestration,25377,31.9,waiting on data,FEAT007,update eval case
+FDBK0150,2026-04-06,DEP028,sales enablement,integration defect,medium,evals,10086,23.8,triaged,FEAT004,train deployment team
+FDBK0151,2026-03-07,DEP008,customer ops review,integration defect,low,orchestration,661,3.1,waiting on data,FEAT005,escalate to product review
+FDBK0152,2026-03-15,DEP020,QA review,eval failure,low,integrations,885,40.2,new,FEAT010,update eval case
+FDBK0153,2026-04-16,DEP007,Slack escalation,sales question,low,evals,2372,38.5,closed,FEAT012,patch integration
+FDBK0154,2026-03-25,DEP025,customer ops review,label drift,medium,evals,8386,20.1,waiting on data,FEAT005,patch integration
+FDBK0155,2026-03-03,DEP007,QA review,eval failure,medium,operator console,6125,39.3,closed,FEAT006,escalate to product review
+FDBK0156,2026-04-02,DEP014,customer ops review,deployment blocker,low,integrations,971,11.6,waiting on data,FEAT005,escalate to product review
+FDBK0157,2026-04-17,DEP021,customer ops review,customer escalation,medium,evals,8270,8.5,closed,FEAT012,escalate to product review
+FDBK0158,2026-03-28,DEP002,Slack escalation,eval failure,low,orchestration,2435,3.8,triaged,FEAT009,write release note
+FDBK0159,2026-03-03,DEP007,field call,eval failure,medium,operator console,10416,23.6,new,FEAT009,write release note
+FDBK0160,2026-04-14,DEP017,sales enablement,deployment blocker,low,orchestration,535,5.4,new,FEAT012,clarify pricing guardrail
+FDBK0161,2026-03-27,DEP005,field call,label drift,low,integrations,1016,40.3,waiting on data,FEAT004,clarify pricing guardrail
+FDBK0162,2026-04-19,DEP008,field call,integration defect,low,voice stack,2195,17.6,waiting on data,FEAT012,clarify pricing guardrail
+FDBK0163,2026-04-12,DEP016,QA review,integration defect,medium,operator console,3854,41.1,new,FEAT001,clarify pricing guardrail
+FDBK0164,2026-03-04,DEP002,field call,integration defect,low,integrations,2317,37.9,closed,FEAT004,escalate to product review
+FDBK0165,2026-04-19,DEP002,sales enablement,deployment blocker,critical,voice stack,51449,13.3,closed,FEAT003,update eval case
+FDBK0166,2026-03-10,DEP019,field call,label drift,medium,operator console,8788,31.6,in progress,FEAT007,write release note
+FDBK0167,2026-03-03,DEP004,QA review,eval failure,low,evals,1197,21.1,in progress,FEAT007,clarify pricing guardrail
+FDBK0168,2026-04-10,DEP013,QA review,label drift,low,orchestration,1853,30.2,new,FEAT007,patch integration
+FDBK0169,2026-03-08,DEP005,field call,integration defect,high,voice stack,22376,39.7,waiting on data,FEAT007,patch integration
+FDBK0170,2026-04-06,DEP025,customer ops review,eval failure,low,evals,883,5.2,new,FEAT005,patch integration
+FDBK0171,2026-03-28,DEP018,sales enablement,deployment blocker,medium,voice stack,8811,30.7,closed,FEAT002,update eval case
+FDBK0172,2026-03-19,DEP019,sales enablement,sales question,low,orchestration,847,3.6,waiting on data,FEAT009,patch integration
+FDBK0173,2026-04-11,DEP014,sales enablement,eval failure,medium,operator console,6623,26.3,waiting on data,FEAT005,write release note
+FDBK0174,2026-03-30,DEP005,QA review,sales question,low,evals,1180,34.4,closed,FEAT005,update eval case
+FDBK0175,2026-03-27,DEP010,QA review,integration defect,medium,integrations,10348,31.1,waiting on data,FEAT006,clarify pricing guardrail
+FDBK0176,2026-04-07,DEP026,Slack escalation,deployment blocker,medium,operator console,8937,41.9,triaged,FEAT004,escalate to product review
+FDBK0177,2026-03-20,DEP025,field call,integration defect,low,evals,1445,28.6,triaged,FEAT009,escalate to product review
+FDBK0178,2026-03-06,DEP010,sales enablement,customer escalation,low,operator console,1964,20.6,waiting on data,FEAT004,clarify pricing guardrail
+FDBK0179,2026-04-09,DEP017,field call,eval failure,medium,voice stack,8390,32.5,in progress,FEAT012,update eval case
+FDBK0180,2026-04-21,DEP021,sales enablement,integration defect,low,voice stack,1887,1.4,in progress,FEAT010,update eval case
+FDBK0181,2026-03-25,DEP017,sales enablement,label drift,medium,evals,11924,32.7,closed,FEAT012,escalate to product review
+FDBK0182,2026-03-07,DEP017,field call,eval failure,medium,orchestration,4212,15.3,in progress,FEAT003,train deployment team
+FDBK0183,2026-04-15,DEP026,sales enablement,deployment blocker,medium,integrations,4099,3.8,new,FEAT004,escalate to product review
+FDBK0184,2026-04-04,DEP004,Slack escalation,integration defect,high,operator console,36264,7.6,closed,FEAT001,train deployment team
+FDBK0185,2026-03-29,DEP015,sales enablement,integration defect,high,voice stack,32987,31.2,triaged,FEAT004,train deployment team
+FDBK0186,2026-04-16,DEP019,field call,integration defect,medium,operator console,5871,5.2,closed,FEAT007,update eval case
+FDBK0187,2026-03-22,DEP012,customer ops review,eval failure,low,evals,1037,26.1,closed,FEAT006,write release note
+FDBK0188,2026-03-07,DEP012,Slack escalation,label drift,high,integrations,32135,5.8,in progress,FEAT006,write release note
+FDBK0189,2026-04-07,DEP006,sales enablement,label drift,medium,evals,9352,8.6,closed,FEAT006,escalate to product review
+FDBK0190,2026-04-24,DEP021,sales enablement,sales question,medium,operator console,4798,3.2,in progress,FEAT003,write release note
+FDBK0191,2026-04-02,DEP016,sales enablement,sales question,low,evals,2473,18.0,waiting on data,FEAT003,train deployment team
+FDBK0192,2026-04-05,DEP006,QA review,customer escalation,medium,orchestration,3035,33.0,closed,FEAT002,escalate to product review
+FDBK0193,2026-04-05,DEP025,QA review,eval failure,medium,operator console,4371,34.7,new,FEAT008,escalate to product review
+FDBK0194,2026-03-30,DEP015,QA review,sales question,low,integrations,709,36.4,new,FEAT009,train deployment team
+FDBK0195,2026-04-10,DEP028,sales enablement,customer escalation,high,orchestration,40214,26.3,triaged,FEAT002,update eval case
+FDBK0196,2026-04-16,DEP026,QA review,label drift,medium,integrations,11327,24.5,closed,FEAT001,escalate to product review
+FDBK0197,2026-03-10,DEP027,Slack escalation,sales question,low,orchestration,2381,7.0,in progress,FEAT002,update eval case
+FDBK0198,2026-03-26,DEP025,sales enablement,customer escalation,medium,voice stack,6902,27.0,new,FEAT011,train deployment team
+FDBK0199,2026-03-02,DEP017,field call,deployment blocker,low,evals,1431,27.0,in progress,FEAT012,write release note
+FDBK0200,2026-03-22,DEP026,QA review,sales question,medium,integrations,5970,23.4,triaged,FEAT009,clarify pricing guardrail
+FDBK0201,2026-04-11,DEP028,sales enablement,integration defect,high,voice stack,13505,6.1,triaged,FEAT008,train deployment team
+FDBK0202,2026-03-21,DEP015,Slack escalation,sales question,critical,integrations,84598,4.8,in progress,FEAT001,patch integration
+FDBK0203,2026-03-21,DEP003,Slack escalation,integration defect,medium,evals,3348,27.9,new,FEAT006,write release note
+FDBK0204,2026-03-02,DEP007,field call,label drift,low,integrations,963,34.5,waiting on data,FEAT008,escalate to product review
+FDBK0205,2026-03-25,DEP005,QA review,sales question,low,orchestration,682,16.7,triaged,FEAT008,escalate to product review
+FDBK0206,2026-04-17,DEP022,Slack escalation,label drift,low,orchestration,517,38.7,closed,FEAT003,escalate to product review
+FDBK0207,2026-03-26,DEP015,QA review,eval failure,low,evals,786,13.9,triaged,FEAT004,update eval case
+FDBK0208,2026-03-03,DEP009,QA review,label drift,low,orchestration,1730,22.2,closed,FEAT011,update eval case
+FDBK0209,2026-03-09,DEP024,Slack escalation,eval failure,low,evals,2105,27.2,new,FEAT007,clarify pricing guardrail
+FDBK0210,2026-04-05,DEP001,Slack escalation,customer escalation,critical,evals,65947,40.1,new,FEAT006,write release note
+FDBK0211,2026-04-03,DEP019,QA review,customer escalation,low,operator console,581,32.5,waiting on data,FEAT002,escalate to product review
+FDBK0212,2026-03-21,DEP013,field call,label drift,medium,operator console,5001,38.8,triaged,FEAT002,clarify pricing guardrail
+FDBK0213,2026-03-29,DEP011,Slack escalation,integration defect,medium,voice stack,3583,11.0,waiting on data,FEAT007,write release note
+FDBK0214,2026-04-16,DEP015,Slack escalation,deployment blocker,medium,voice stack,5377,7.7,in progress,FEAT010,clarify pricing guardrail
+FDBK0215,2026-04-20,DEP017,field call,deployment blocker,low,integrations,759,34.1,in progress,FEAT012,clarify pricing guardrail
+FDBK0216,2026-04-03,DEP003,QA review,label drift,high,voice stack,28257,21.5,closed,FEAT005,update eval case
+FDBK0217,2026-03-09,DEP012,Slack escalation,eval failure,low,operator console,2331,1.1,new,FEAT003,update eval case
+FDBK0218,2026-04-16,DEP002,sales enablement,customer escalation,medium,orchestration,3079,14.2,waiting on data,FEAT008,escalate to product review
+FDBK0219,2026-03-05,DEP011,Slack escalation,label drift,high,orchestration,28450,34.0,new,FEAT005,train deployment team
+FDBK0220,2026-03-02,DEP003,QA review,deployment blocker,high,orchestration,30123,13.0,in progress,FEAT008,escalate to product review
+FDBK0221,2026-03-14,DEP020,customer ops review,label drift,medium,orchestration,10583,7.2,waiting on data,FEAT004,write release note
+FDBK0222,2026-04-19,DEP008,sales enablement,integration defect,medium,integrations,2657,5.3,closed,FEAT009,update eval case
+FDBK0223,2026-03-16,DEP014,customer ops review,customer escalation,critical,evals,44877,29.7,in progress,FEAT008,train deployment team
+FDBK0224,2026-04-07,DEP024,field call,label drift,medium,evals,8961,28.2,triaged,FEAT002,update eval case
+FDBK0225,2026-03-19,DEP010,Slack escalation,sales question,high,voice stack,22422,39.7,triaged,FEAT005,clarify pricing guardrail
+FDBK0226,2026-04-05,DEP004,QA review,sales question,low,orchestration,1454,19.5,waiting on data,FEAT003,patch integration
+FDBK0227,2026-03-11,DEP028,field call,integration defect,low,orchestration,1123,40.7,waiting on data,FEAT002,clarify pricing guardrail
+FDBK0228,2026-04-06,DEP002,customer ops review,customer escalation,medium,orchestration,9125,4.9,new,FEAT011,update eval case
+FDBK0229,2026-03-25,DEP004,field call,customer escalation,low,operator console,767,25.0,new,FEAT001,write release note
+FDBK0230,2026-03-09,DEP003,field call,sales question,high,evals,15013,3.1,closed,FEAT004,train deployment team
+FDBK0231,2026-03-15,DEP027,Slack escalation,eval failure,medium,integrations,9490,12.5,triaged,FEAT012,write release note
+FDBK0232,2026-04-01,DEP020,field call,integration defect,medium,voice stack,10673,12.5,triaged,FEAT010,train deployment team
+FDBK0233,2026-03-26,DEP007,QA review,label drift,high,evals,38045,23.3,waiting on data,FEAT011,patch integration
+FDBK0234,2026-03-16,DEP019,field call,deployment blocker,medium,integrations,2927,3.4,waiting on data,FEAT009,clarify pricing guardrail
+FDBK0235,2026-03-19,DEP012,customer ops review,customer escalation,critical,voice stack,57804,32.3,triaged,FEAT010,clarify pricing guardrail
+FDBK0236,2026-04-22,DEP028,QA review,customer escalation,medium,operator console,6375,2.2,in progress,FEAT007,clarify pricing guardrail
+FDBK0237,2026-03-13,DEP019,sales enablement,customer escalation,medium,voice stack,10564,4.7,triaged,FEAT003,clarify pricing guardrail
+FDBK0238,2026-03-23,DEP008,Slack escalation,eval failure,medium,integrations,5800,3.4,triaged,FEAT001,clarify pricing guardrail
+FDBK0239,2026-04-16,DEP023,sales enablement,label drift,high,operator console,14376,5.1,in progress,FEAT003,patch integration
+FDBK0240,2026-03-13,DEP005,customer ops review,sales question,high,operator console,33272,33.3,triaged,FEAT003,escalate to product review

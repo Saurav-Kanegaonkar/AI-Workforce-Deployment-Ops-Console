@@ -1,0 +1,33 @@
+batch_id,week_start,capability,vendor_type,active_labelers,items_labeled,throughput_target,qa_accept_rate_pct,consensus_rate_pct,rework_rate_pct,backlog_items,dominant_failure_mode
+LBL01-VOICE,2026-03-02,voice,hybrid,4,2524,2306,88.1,90.7,13.7,977,missing customer context
+LBL01-REASONING,2026-03-02,reasoning,hybrid,11,2112,1901,94.3,87.3,6.8,1553,missing customer context
+LBL01-CODING,2026-03-02,coding,in-house,6,1511,1313,84.3,90.9,17.2,1558,tool call mismatch
+LBL01-WORKFLOWTOOLS,2026-03-02,workflow tools,hybrid,4,1460,2014,85.4,89.9,16.7,692,ambiguous policy
+LBL02-VOICE,2026-03-09,voice,specialist agency,21,1741,1890,88.7,79.3,13.8,1801,edge-case reasoning
+LBL02-REASONING,2026-03-09,reasoning,in-house,18,1439,1307,94.6,87.6,9.9,1173,ambiguous policy
+LBL02-CODING,2026-03-09,coding,specialist agency,9,999,1168,87.1,95.0,13.3,946,ambiguous policy
+LBL02-WORKFLOWTOOLS,2026-03-09,workflow tools,hybrid,4,2560,2220,97.6,82.8,8.3,2227,edge-case reasoning
+LBL03-VOICE,2026-03-16,voice,in-house,17,1940,2438,96.2,79.1,4.4,1091,missing customer context
+LBL03-REASONING,2026-03-16,reasoning,in-house,16,2953,2578,90.6,89.2,11.1,642,missing customer context
+LBL03-CODING,2026-03-16,coding,hybrid,19,2461,2225,84.5,83.2,18.1,1456,audio quality
+LBL03-WORKFLOWTOOLS,2026-03-16,workflow tools,specialist agency,16,949,1298,84.7,81.8,15.8,723,edge-case reasoning
+LBL04-VOICE,2026-03-23,voice,specialist agency,15,2377,2101,86.2,88.8,16.1,1769,audio quality
+LBL04-REASONING,2026-03-23,reasoning,in-house,7,1489,2012,89.0,81.3,16.0,502,ambiguous policy
+LBL04-CODING,2026-03-23,coding,specialist agency,20,2167,2468,90.7,95.4,12.9,499,edge-case reasoning
+LBL04-WORKFLOWTOOLS,2026-03-23,workflow tools,in-house,16,2275,2196,97.0,87.5,4.4,1474,ambiguous policy
+LBL05-VOICE,2026-03-30,voice,in-house,18,2091,2128,90.3,87.4,15.6,853,audio quality
+LBL05-REASONING,2026-03-30,reasoning,in-house,8,1683,1442,94.9,78.5,7.6,2033,missing customer context
+LBL05-CODING,2026-03-30,coding,hybrid,14,1411,1628,93.6,92.1,6.9,1877,tool call mismatch
+LBL05-WORKFLOWTOOLS,2026-03-30,workflow tools,specialist agency,7,2014,2164,96.0,91.7,7.8,2390,edge-case reasoning
+LBL06-VOICE,2026-04-06,voice,hybrid,7,1108,1406,91.4,91.2,14.2,682,tool call mismatch
+LBL06-REASONING,2026-04-06,reasoning,in-house,9,2470,2196,96.0,81.3,7.9,2187,tool call mismatch
+LBL06-CODING,2026-04-06,coding,hybrid,11,1513,1925,91.7,89.9,8.5,1607,ambiguous policy
+LBL06-WORKFLOWTOOLS,2026-04-06,workflow tools,specialist agency,12,2370,2073,96.4,76.4,8.6,1491,edge-case reasoning
+LBL07-VOICE,2026-04-13,voice,specialist agency,12,2613,2525,97.6,80.6,4.2,2064,edge-case reasoning
+LBL07-REASONING,2026-04-13,reasoning,hybrid,15,2377,2338,85.0,80.2,19.9,2234,ambiguous policy
+LBL07-CODING,2026-04-13,coding,hybrid,4,2336,2155,83.0,90.2,19.4,2397,audio quality
+LBL07-WORKFLOWTOOLS,2026-04-13,workflow tools,specialist agency,10,1677,1494,85.2,77.2,15.0,457,tool call mismatch
+LBL08-VOICE,2026-04-20,voice,in-house,15,2037,1854,90.1,88.7,10.7,375,edge-case reasoning
+LBL08-REASONING,2026-04-20,reasoning,in-house,12,2142,2316,97.4,85.5,5.9,1660,ambiguous policy
+LBL08-CODING,2026-04-20,coding,in-house,11,1233,1683,82.8,93.1,21.9,1127,audio quality
+LBL08-WORKFLOWTOOLS,2026-04-20,workflow tools,specialist agency,8,1683,1651,90.2,93.3,15.6,286,audio quality

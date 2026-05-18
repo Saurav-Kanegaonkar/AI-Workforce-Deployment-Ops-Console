@@ -1,0 +1,5 @@
+capability,items_labeled,throughput_attainment_pct,qa_accept_rate_pct,consensus_rate_pct,rework_rate_pct,backlog_items,labeling_risk_score
+coding,13631,93.6,87.2,91.2,14.8,11467,27.0
+reasoning,16665,103.6,92.7,83.9,10.6,11984,20.1
+voice,16431,98.7,91.1,85.7,11.6,9612,18.9
+workflow tools,14988,99.2,91.6,85.1,11.5,9740,18.8
